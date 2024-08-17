@@ -1,16 +1,16 @@
 # Hello !!!
 - 👋 Hi, My name is Moises.
-- 👀 I’m interested in software development.
+- 👀 I’m interested in website development and cyber security.
 
 ## About me
-I'm 17 years old, I study electricity in a technical institute in Venezuela and I study software development by myself.
+I'm 17 years old, I study electricity at a technical institute in Venezuela and I study backend development by myself.
 
-- I’m currently learning javascript and a few things about c++
-- These are the technologies with I currently work: Html, Css, Python, Flask, Php
-- Currently, I have a B1 level in english. But, I keep studying.
+- Currently, I'm learning javascript.
+- These are the technologies I currently work HTML, CSS, Python, Flask, and a bit of PHP
+- Currently, I have a B1 level in English, according to "MCER", But, I keep studying.
 
 ### My website
-This website is in developing [Portafolio](https://moisesprojectstudent.pythonanywhere.com "Website")
+This is my website: [Portfolio](https://moisesprojectstudent.pythonanywhere.com "Website")
 <!---
 moiseStudent/moiseStudent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
