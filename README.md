@@ -11,7 +11,8 @@ I'm 17 years old, I study electricity at a technical institute in Venezuela and 
 Currently, I have a <b>B1</b> level in English, according to "CEFR" <i><b>Common European Framework of Reference for Languages</b></i>, but, I keep studying for get C2 level.
 
 ### <i>My website<i>
-This is my website: <a href="https://moisesprojectstudent.pythonanywhere.com" target="__black" title="Portfolio">Portfolio</a>
+
+This is my website: <a href="https://moisesprojectstudent.pythonanywhere.com" target="_blank" title="Portfolio">Portfolio</a>
 
 <!-- Tech Section ( Programming Languages ) -->
 <h2>💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px></h2>
